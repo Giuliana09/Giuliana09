@@ -8,7 +8,7 @@
 <p> Deixo meu contato à disposição</p>
  
 <div>
-  <a href="mailto:gralhagiuliana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+  <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
   <a href="https://www.linkedin.com/in/giuliana-gralha-8754b5190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </div>
     

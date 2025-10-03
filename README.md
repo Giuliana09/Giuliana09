@@ -1,10 +1,17 @@
-### Olá! Eu sou a Giuliana Gralha 👋
+# ✨ Olá! sou a Giuliana Gralha 👋
 
+<P>🎓 Sou formada em Desenvolvimento de Software Multiplataforma pela FATEC Zona Sul. <br>
+ 💻 Tenho uma base sólida em lógica de programação, HTML e CSS, noções em JavaScript, além de experiência prática em projetos acadêmicos.<br>
+ 📚 Atualmente estou me especializando em SAP ABAP, realizando um intensivo para aprimorar meus conhecimentos e direcionar minha carreira para essa área.
+ 
+### 🔹 Experiência adicional:
+- Trabalhos administrativos voluntária durante a faculdade.
+- Atuação como assistente veterinária (autônoma).
+- Experiência em eventos como fotógrafa (autônoma).
 
-<P>🎓 Atualmente, estou matriculado no curso de Desenvolvimento de Software e Multiplataforma na FATEC Zona Sul, localizada na região sul da cidade de São Paulo. Meu interesse principal está voltado para a área de front-end. <br>  Inicialmente, estou enfrentando desafios acadêmicos, mas tenho a intenção de também dedicar-me a projetos pessoais para aprimorar minhas técnicas e habilidades nessa área.</P>
+🚀 Objetivo: consolidar minha carreira em SAP ABAP, com muita determinação para me desenvolver na área e aplicar meu aprendizado em projetos práticos.
 
 <p>😃 Qualquer dica, orientação ou oportunidade que possam oferecer será muito bem-recebida. </p>
-
 <p> Deixo meu contato à disposição</p>
  
 <div>
@@ -16,6 +23,7 @@
 
 <div>
   <p>Aqui estão as linguagens e tecnologias nas quais tenho experiência:</p>
+  <li> SAP ABAP (básico)</li> <br>
   <img align="center" alt="Giu-HTML" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Giu-CSS"  height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Giu-JS"  height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
